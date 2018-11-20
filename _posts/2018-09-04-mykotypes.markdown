@@ -14,4 +14,3 @@ A blog about web development and design with a focus on creativity and learning.
 
 
 ![Placeholder](/assets/images/mykotypes-post.jpg)
-

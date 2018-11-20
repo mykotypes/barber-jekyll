@@ -6,26 +6,69 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 15:36:18 +0100</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 15:36:18 +0100</lastBuildDate>
+    <pubDate>Tue, 20 Nov 2018 15:57:40 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 15:57:40 +0100</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>Mykotypes.com</title>
-        <description>&lt;p&gt;A blog about web development and design with a focus on creativity and learning. This small project is orientated towards new small dev challenges/, that I come up with. It has a small extra features, like: custom song for each blog post. Just a small playful extra detail to enjoy for browsing experience.&lt;/p&gt;
+        <title>Mykotypes</title>
+        <description>&lt;h2 id=&quot;-head_posts2018-09-04-mykotypesmarkdown&quot;&gt;«««&amp;lt; HEAD:_posts/2018-09-04-mykotypes.markdown&lt;/h2&gt;
+&lt;p&gt;layout: post
+title: “Mykotypes.com”
+date: 2018-09-04
+description: 
+image: /assets/images/mykotypes-front.jpg
+author: Mykolas Tikuisis
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blog about web development&lt;/li&gt;
+  &lt;li&gt;Wordpress&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;javascript&quot;&gt;Javascript&lt;/h2&gt;
+    &lt;p&gt;A blog about web development and design with a focus on creativity and learning. This small project is orientated towards new small dev challenges/, that I come up with. It has a small extra features, like: custom song for each blog post. Just a small playful extra detail to enjoy for browsing experience.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/mykotypes-post.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
+&lt;h2&gt;=======&lt;/h2&gt;
+&lt;p&gt;layout: post
+title: “Mykotypes.com”
+date: 2018-09-04
+description: 
+image: /assets/images/mykotypes-front.jpg
+author: Mykolas Tikuisis
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Blog about web development&lt;/li&gt;
+  &lt;li&gt;Wordpress&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;javascript-1&quot;&gt;Javascript&lt;/h2&gt;
+    &lt;p&gt;A blog about web development and design with a focus on creativity and learning. This small project is orientated towards new small dev challenges/, that I come up with. It has a small extra features, like: custom song for each blog post. Just a small playful extra detail to enjoy for browsing experience.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mykotypes-post.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;blockquote&gt;
+        &lt;blockquote&gt;
+          &lt;blockquote&gt;
+            &lt;blockquote&gt;
+              &lt;p&gt;ef667a24b244082597e1d7b7cb04b19ce8cbf9fb:_posts/2018-09-04-mykotypes.markdown&lt;/p&gt;
+            &lt;/blockquote&gt;
+          &lt;/blockquote&gt;
+        &lt;/blockquote&gt;
+      &lt;/blockquote&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 04 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2018/09/04/mykotypes/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/04/mykotypes/</guid>
-        
-        <category>Blog about web development</category>
-        
-        <category>Wordpress</category>
-        
-        <category>Javascript</category>
         
         
       </item>
