@@ -11,6 +11,6 @@ tags:
   - Custom theme
 ---
 
-A website for a startup [Develop Diverse](https://www.developdiverse.com/){:target="_blank"}. Website buidt on [Understrap](https://understrap.com){:target="_blank"} theme Wordpress strrter theme with bootstrap. 
+A website for a startup [Develop Diverse](https://www.developdiverse.com/){:target="_blank"}. Website buidt on [Understrap](https://understrap.com){:target="_blank"} theme Wordpress starter theme with bootstrap. 
 
 ![Placeholder](/assets/images/dd-pr.jpg)
