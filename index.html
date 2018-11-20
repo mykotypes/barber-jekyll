@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!-- The main content area -->
+<div class="posts">
+  <div class="grid-xlarge">
+    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+      <article class="post-sticky posts__post">
+      <h2 class="posts__text"><strong itemprop="name">Hello! My name is Mykolas</strong> — <span itemprop="description">I am a freelance web developer, I make functional, beautiful and fast websites. Here you can see latest projects I've been working on. Contact me and let's work together!</span></h2>
+        </article>
+      {% for post in paginator.posts %}
+
+        <!-- The tag below includes the markup for each post - partials/post-card.html -->
+        {% include post-card.html %}
+
+      {% endfor %}
+    </div>
+  </div>
+
+  {% include pagination.html %}
+</div>

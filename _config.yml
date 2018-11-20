@@ -1,0 +1,60 @@
+# Site/SEO settings
+email: mykolas.tikuisis@gmail.com
+baseurl: ""
+paginate: 12
+paginate_path: "/page/:num"
+permalink: /:year/:month/:day/:title/
+google_analytics: 
+
+name: Mykolas Tikuisis
+title: Myko.design
+description: >
+  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+url: http://barber.samesies.io
+twitter_username: 
+default_img: /assets/images/seo.jpg
+social:
+  - name: instagram
+    url: https://www.instagram.com/mykotypes/
+  - name: linkedin
+    url: https://www.linkedin.com/in/mykolast/
+  - name: github
+    url: https://github.com/mykotypes
+  - name: codepen
+    url: https://codepen.io/mykolas/
+
+# Contact settings
+contact_img: /assets/images/placeholder-28.jpg
+formcarry: https://formcarry.com/s/kd-sCjkwmBn
+
+# Disqus settings
+disqus: test-apkdzgmqhj
+
+# MailChimp settings
+mailchimp_action: https://design.us19.list-manage.com/subscribe/post?u=703b9c41ac3d7e29c38676cd6&amp;id=e358874488
+mailchimp_input: b_703b9c41ac3d7e29c38676cd6_e358874488
+
+# Author settings
+author:
+  - name: Mykolas
+    bio: Mykolas, web developer
+    url: https://myko.design
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md
