@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mykotypes.com"
-date: 2018-09-05
+date: 2018-09-04
 description: 
 image: /assets/images/mykotypes-front-1.jpg
 author: Mykolas Tikuisis

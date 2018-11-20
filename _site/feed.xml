@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 15:12:08 +0100</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 15:12:08 +0100</lastBuildDate>
+    <pubDate>Tue, 20 Nov 2018 15:12:55 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 15:12:55 +0100</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -17,9 +17,9 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/mykotypes-2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 05 Sep 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/09/05/mykotypes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/05/mykotypes/</guid>
+        <pubDate>Tue, 04 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/09/04/mykotypes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/04/mykotypes/</guid>
         
         <category>Blog about web development</category>
         
@@ -36,9 +36,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/dd-product-1.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/09/01/developdiverse/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/01/developdiverse/</guid>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/09/02/developdiverse/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/02/developdiverse/</guid>
         
         <category>Startup</category>
         
