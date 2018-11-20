@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevelopDiverse.com"
-date: 2018-09-02
+date: 2018-09-03
 description: 
 image: /assets/images/dd-front-page.jpg
 author: Mykolas Tikuisis
