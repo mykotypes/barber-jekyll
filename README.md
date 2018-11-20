@@ -36,11 +36,11 @@ paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
+name: Mykolas Tikuisis
 title: Myko.design
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+url: https://myko.design
 twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
