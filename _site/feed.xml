@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myko.design</title>
+    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Nov 2018 15:10:19 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Nov 2018 15:10:19 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Mykotypes.com</title>
+        <description>&lt;p&gt;A blog about web development and design with a focus on creativity and learning. This small project is orientated towards new small dev challenges/, that I come up with. It has a small extra features, like: custom song for each blog post. Just a small playful extra detail to enjoy for browsing experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mykotypes-2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 05 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/09/05/mykotypes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/05/mykotypes/</guid>
+        
+        <category>Blog about web development</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Javascript</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DevelopDiverse.com</title>
+        <description>&lt;p&gt;A website for a startup &lt;a href=&quot;https://www.developdiverse.com/&quot; target=&quot;_blank&quot;&gt;Develop Diverse&lt;/a&gt;. Website buidt on &lt;a href=&quot;https://understrap.com&quot; target=&quot;_blank&quot;&gt;Understrap&lt;/a&gt; theme Wordpress strrter theme with bootstrap.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dd-product-1.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/09/01/developdiverse/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/developdiverse/</guid>
+        
+        <category>Startup</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Custom theme</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
