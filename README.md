@@ -61,8 +61,8 @@ formcarry: https://formcarry.com/s/kd-sCjkwmBn
 disqus: 
 
 # MailChimp settings
-mailchimp_action: 
-mailchimp_input: 
+mailchimp_action: https://design.us19.list-manage.com/subscribe/post?u=703b9c41ac3d7e29c38676cd6&amp;id=e358874488
+mailchimp_input: b_703b9c41ac3d7e29c38676cd6_e358874488
 
 # Author settings
 author:
