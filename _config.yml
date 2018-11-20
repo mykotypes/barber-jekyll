@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: mykolas.tikuisis@gmail.com
-baseurl: ""
+baseurl: "/"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
