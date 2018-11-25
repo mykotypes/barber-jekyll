@@ -1,0 +1,26 @@
+---
+layout: post
+title: "'Paradigm shift' theme - work in progress"
+date: 2018-11-25
+description: 
+image: /assets/images/paradigm-wprig.jpg
+author: Mykolas Tikuisis
+tags: 
+  - Theme development
+  - Wordpress
+  - Custom theme
+  - wprig
+---
+
+### [https://coolstore.mykotypes.com](https://coolstore.mykotypes.com/){:target="_blank"}.
+
+<br>
+A work in progress new theme development with a [WP Rig](https://wprig.io/){:target="_blank"}. A new(or refreshed rather) way of building new wordpress themes. The Progressive WordPress theme development rig. WP Rig uses NPM, Composer, and Gulp 4. 
+
+![Placeholder](/assets/images/wprig.jpg)
+
+A great set of tools all in one to build themes that are fast to load, modular and full of newest features to support. It is ready for Gutenberg, AMP ready as well as loads assets progressively. It processes your sass, takes care of your cutting edge javascript(babel) and when the build process is done is zips your newly built theme into a single file.
+
+So far, the work is still in progress, but to be honest seeing google page speed anything over 90% is so relieving.
+
+![speed](/assets/images/wprig-speed.jpg)
