@@ -12,7 +12,7 @@ tags:
   - wprig
 ---
 
-### [https://coolstore.mykotypes.com](https://coolstore.mykotypes.com/){:target="_blank"}.
+## [https://coolstore.mykotypes.com](https://coolstore.mykotypes.com/){:target="_blank"}.
 
 <br>
 A work in progress new theme development with a [WP Rig](https://wprig.io/){:target="_blank"}. A new(or refreshed rather) way of building new wordpress themes. The Progressive WordPress theme development rig. WP Rig uses NPM, Composer, and Gulp 4. 
