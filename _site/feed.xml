@@ -6,9 +6,99 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Dec 2018 15:57:11 +0100</pubDate>
-    <lastBuildDate>Wed, 12 Dec 2018 15:57:11 +0100</lastBuildDate>
+    <pubDate>Fri, 22 Feb 2019 21:53:36 +0100</pubDate>
+    <lastBuildDate>Fri, 22 Feb 2019 21:53:36 +0100</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Locus Novus: your relocation concierge</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://locusnovus.lt/en/&quot; target=&quot;_blank&quot;&gt;Locusnovus.lt/en&lt;/a&gt;. A multilingual project for a relocation services company.&lt;/p&gt;
+
+&lt;p&gt;A Gutenberg block builder to test, Polylang for languages and some custom design spices for the win.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/locus-front-services.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/02/15/locus-novus/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/15/locus-novus/</guid>
+        
+        <category>Theme development</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Multilingual</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Expolagret: a Woocommerce solution</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.expolagret.se/&quot; target=&quot;_blank&quot;&gt;Expolagret.se&lt;/a&gt;. A project with an aim to build a great experience for a product selection that needs customization from the user’s perspective. File uploads, color selection and much more to select from.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/02/15/expolagret/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/15/expolagret/</guid>
+        
+        <category>Theme development</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Woocommerce</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Develop Diverse: some updates, some great news</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.developdiverse.com/&quot; target=&quot;_blank&quot;&gt;Develop Diverse&lt;/a&gt;. Has been working on some exciting updates! Check Jenifer’s TEDxOdenseWomen speach on: &lt;a href=&quot;https://www.youtube.com/watch?v=P-px4IXm8JQ&quot; target=&quot;_blank&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;1263&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/P-px4IXm8JQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dd-about.gif&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019/01/21/develop-diverse/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/21/develop-diverse/</guid>
+        
+        <category>Theme development</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Custom theme</category>
+        
+        <category>Startup</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wordpress for hospitality: We all like a good hotel!</title>
+        <description>&lt;h2 id=&quot;a-project-with-reddoor-agency-&quot;&gt;A project with &lt;a href=&quot;https://www.reddoor.lt/&quot; target=&quot;_blank&quot;&gt;RedDoor agency&lt;/a&gt;. &lt;br /&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;lovely-goda-hotel-httpgodalten&quot;&gt;Lovely Goda hotel: &lt;a href=&quot;http://goda.lt/en&quot; target=&quot;_blank&quot;&gt;http://goda.lt/en&lt;/a&gt;.&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Design by great people at &lt;a href=&quot;https://www.reddoor.lt/&quot; target=&quot;_blank&quot;&gt;RedDoor agency&lt;/a&gt;, 
+a Wordpress multiligual solution for a Hotel in Lithuania.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/12/12/goda/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/12/goda/</guid>
+        
+        <category>Theme development</category>
+        
+        <category>Wordpress</category>
+        
+        <category>Custom theme</category>
+        
+        <category>Multisite</category>
+        
+        <category>Multilingual</category>
+        
+        
+      </item>
     
       <item>
         <title>'Paradigm shift' theme - work in progress</title>
