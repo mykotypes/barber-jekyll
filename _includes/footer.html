@@ -30,16 +30,21 @@
   </script>
 {% endif %}
 
-<!-- Cookie Consent by https://www.FreePrivacyPolicy.com -->
-<script type="text/javascript" src="//www.FreePrivacyPolicy.com/cookie-consent/releases/3.0.0/cookie-consent.js"></script>
-<script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function () {
-    cookieconsent.run({"notice_banner_type":"simple","consent_type":"implied","palette":"light","change_preferences_selector":"#changePreferences","language":"en","website_name":"Myko design","cookies_policy_url":"https://myko.design/cookies-policy"});
-});
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  }
+})});
 </script>
-
-<noscript><a href="https://www.freeprivacypolicy.com/cookie-consent/">Cookie Consent by FreePrivacyPolicy.com</a></noscript>
-<!-- End Cookie Consent -->
 
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
