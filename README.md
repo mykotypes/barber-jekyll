@@ -39,10 +39,10 @@ google_analytics: UA-125260212-1
 name: Mykolas Tikuisis
 title: Myko.design
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+  Mykolas — I am a freelance web developer, I make functional, beautiful and fast websites.
 url: https://myko.design
 twitter_username: 
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/mykolas.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/mykotypes
