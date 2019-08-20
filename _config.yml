@@ -3,7 +3,8 @@ email: mykolas.tikuisis@gmail.com
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
+# permalink: /:year/:month/:day/:title/
+permalink: /portfolio/:title/
 google_analytics: UA-125260212-1
 
 name: Mykolas Tikuisis
