@@ -2,7 +2,6 @@
 layout: post
 title: "Locus Novus: your relocation concierge"
 date: 2019-02-15
-permalink: /portfolio/:title
 description: 
 image: /assets/images/locus-front-01.jpg
 author: Mykolas Tikuisis
